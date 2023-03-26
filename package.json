@@ -1,17 +1,15 @@
 {
-  "name": "rainbow-role-main",
+  "name": "codigo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "BeingYT#6596",
-  "license": "ISC",
-  "engines": {
-    "node": ">=12.0.0"
-  },
-  "dependencies": {
-    "discord.js": "^12.5.1"
-  },
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0"
   }
 }
